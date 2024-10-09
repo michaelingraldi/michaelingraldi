@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelingraldi
-- 🌱 I’m currently learning C#, JS
+- 🌱 I'm good at some stuff
 
 - 📫 How to reach me michael.s.ingraldi (at) gmail.com
 
